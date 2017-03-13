@@ -1,2 +1,3 @@
 # hello-word
-welcome to all
+we to all
+<h1>its function</h1>
